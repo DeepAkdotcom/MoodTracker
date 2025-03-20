@@ -2,7 +2,7 @@
 
 A beautiful and responsive web application for tracking daily moods with calendar visualization, built with HTML/CSS/JavaScript and FullCalendar.js.
 
-[![GitHub Pages](https://img.shields.io/badge/-Live%20Demo-blue?logo=github)](https://deepakdotcom.github.io/Mood_Tracker/)
+[![GitHub Pages](https://img.shields.io/badge/-Live%20Demo-blue?logo=github)](https://deepakdotcom.github.io/MoodTracker/)
 
 ![Demo Screenshot](screenshot.png) <!-- Add your screenshot here -->
 
