@@ -26,7 +26,8 @@ document.addEventListener("DOMContentLoaded", () => {
     emojis.forEach(emoji => {
       emoji.addEventListener("click", () => {
         const mood = emoji.getAttribute("data-mood");
-        const date = new Date().toISOString().split("T")[0];
+        const date = new Date().toLocaleDateString("en-CA");
+        console.log(date);
         const existingEntry = moodHistory.find(entry => entry.date === date);
 
         if (existingEntry) {
